@@ -7,6 +7,10 @@ body{
     font-family: 'Ruda', sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .bottom-border{
     border-bottom: 8px solid;
 }
